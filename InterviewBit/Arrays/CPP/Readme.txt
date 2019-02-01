@@ -1,0 +1,1 @@
+This folder includes all the questions related to Arrays in CPP
